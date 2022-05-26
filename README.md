@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 
 Skills: 
 
-<img src="Pictures/c++.png" style="width:40px;height:40px;" /> <img src="Pictures/csharp.png" style="width: 40px;height:40px" /> <img src="Pictures/ssms.png" style="width:35px;height:36px;" /> 
+ <img src="Pictures/c++.png" style="width:40px;height:40px;" /> <img src="Pictures/csharp.png" style="width: 40px;height:40px" />  <img src="Pictures/html5.png" style="width:40px;height:40px;" /> <img src="Pictures/css3.png" style="width:42px;height:40px;" /> <img src="Pictures/js.png" style="width:36px;height:40px;" /> <img src="Pictures/access.png" style="width:40px;height:40px;" /> <img src="Pictures/ssms.png" style="width:35px;height:36px;" />

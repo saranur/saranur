@@ -1,4 +1,4 @@
-👋 Hi, I’m Sara <br>
+👋 Hi, I’m Sara Nur <br>
 📫 How to reach me: saranuredinovski@gmail.com
 
 <!---

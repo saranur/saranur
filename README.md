@@ -1,7 +1,7 @@
 👋 Hi, I’m Sara Nur <br>
 📫 How to reach me: saranuredinovski@gmail.com <br>
 🎓 This is my university related GitHub profile. Here you can view repositories for many subjects, feel free to use anything you find interesting :) <br>
-🏢 You can visit my project related GitHub profile here: [sara-nuredinovski](https://github.com/sara-nuredinovski) <br>
+🏢 You can visit my project related GitHub profile here: [sara-nuredinovski](https://github.com/sara-nur) <br>
 
 <!---
 saranur/saranur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
